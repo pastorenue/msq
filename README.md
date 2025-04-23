@@ -42,4 +42,3 @@ Implement request-response messaging patterns using RabbitMQ.
 - [RabbitMQ Official Documentation](https://www.rabbitmq.com/documentation.html)
 - [AMQP 0-9-1 Model Explained](https://www.rabbitmq.com/tutorials/amqp-concepts.html)
 - [RabbitMQ Tutorials](https://www.rabbitmq.com/getstarted.html)
-
